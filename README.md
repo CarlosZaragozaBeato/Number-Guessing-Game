@@ -1,7 +1,4 @@
 # Number-Guessing-Game
-
-# Number Guessing Game
-
 A fun and interactive console-based game where the user tries to guess a randomly generated number. The game offers three difficulty levels, each with a different number of chances to guess.
 
 ---
